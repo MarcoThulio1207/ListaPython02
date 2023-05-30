@@ -16,6 +16,7 @@ public class Exercicio_1 {
         }
         else if (numero2 > numero1) {
         System.out.println("o segundo número digitado  "  +numero2+ " é maior que o primeiro número digitado  "  +numero1);
+            scanner.close();
         }
     }
 }
